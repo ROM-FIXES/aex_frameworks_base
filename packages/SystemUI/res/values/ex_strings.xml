@@ -303,4 +303,7 @@
     <string name="dlg_cancel">Cancel</string>
     <string name="kill">Kill App</string>
 
+    <!-- Gesture anywhere -->
+    <string name="gestures_message">Draw your gesture here</string>
+
 </resources>
